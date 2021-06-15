@@ -1,7 +1,16 @@
-baseurl = "/"
+basesURL = "https://www.pliclock.com"
 languageCode = "en-us"
-languageLang = "en"
-title = "Homepage"
+title = "PlicLock"
+author = "YP_hack"
+copyright = "Powered by Hugo. @2021 YP_hack"
+theme = "hugo-uno"
+hasCJKLanguage = "true"
+
+[Params]
+description = "Design by PlicLock"
+github = "ysk0518"
+cover = "/images/DSC_0011.jpg"
+logo = "/images/plic_lock.png"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
